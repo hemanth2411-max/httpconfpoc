@@ -1,0 +1,27 @@
+github:
+#  organization: micronaut-projects
+  repo: lovefood
+  username : Hemanth-the-coder
+  token : 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
+
+micronaut:
+
+  codec:
+    json:
+      additional-types:
+        - application/vnd.github.v3+json
+  http:
+    client:
+      versioning:
+        default:
+          headers:
+            - 'Accept-Version'
+            - 'X-API-VERSION'
+    services:
+      github:
+        url: https://api.github.com
+      versioning:
+        url: http://localhost:8081
+
+  server:
+    port: 5000
