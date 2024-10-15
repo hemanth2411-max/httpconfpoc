@@ -4,7 +4,6 @@ github:
   username : Hemanth-the-coder
 
 micronaut:
-
   codec:
     json:
       additional-types:

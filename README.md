@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Micronaut 4.6.2 Documentation
 
 - [User Guide](https://docs.micronaut.io/4.6.2/guide/index.html)
@@ -22,3 +23,6 @@
 - [Micronaut Serialization Jackson Core documentation](https://micronaut-projects.github.io/micronaut-serialization/latest/guide/)
 
 
+=======
+# httpconfigpoc
+>>>>>>> 9a074562680551ab93ab9b337e7009da38614f2d
